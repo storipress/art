@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="170px" height="178px" viewBox="0 0 170 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <filter x="-69.6%" y="-63.7%" width="239.3%" height="227.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Marketing-Materials" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-254.000000, -12.000000)">
+            <g id="Group-2" transform="translate(268.170558, 25.449273)">
+                <path d="M0.829442065,70.5507271 C6.4554044,21.667491 13.701811,-4.1713094 70.8294421,0.550727063 C127.957073,5.27276352 147.957681,5.27276352 140.829442,70.5507271 C133.701203,135.828691 123.498394,140.550727 70.8294421,140.550727 C18.1604899,140.550727 -4.79652027,119.433963 0.829442065,70.5507271 Z" id="Rectangle" fill="#FFE0A9"></path>
+                <g id="Group" filter="url(#filter-1)" transform="translate(29.178896, 30.050727)" fill-rule="nonzero">
+                    <path d="M28.436353,1.43907509 C25.4382808,19.8234592 34.2630194,33.9321193 54.9105735,43.7650565 C75.0992963,53.3794837 83.9965474,68.6461172 81.6023312,89.5649567 L81.4215941,91 L53.7958719,91 C54.6991119,84.0991016 53.6804973,79.216258 50.7400237,76.3514694 C39.8361132,65.7282119 29.0876403,65.49116 18.0953797,53.7143912 C4.04109952,38.657064 -1.82644482,21.8157418 0.492746681,3.19042509 L0.734158935,1.43907509 L28.436353,1.43907509 Z" id="Path" fill="#FF4C4C"></path>
+                    <path d="M42.09122,10.6931797 C46.3252204,10.5156996 49.7605817,10.781301 52.3873862,11.5524659 C54.4392503,12.1548424 55.9612014,13.0357688 56.7689743,14.4040043 C57.5760918,15.7711295 57.6112151,17.5262804 57.1461188,19.6091604 C56.5503482,22.2772497 55.1203236,25.4069838 52.9158079,29.0200487 C49.6341284,34.59918 46.4907308,38.8154632 43.4272995,41.6748238 C29.3093239,54.8523297 13.5447259,60.489406 -3.89450335,58.4887782 L-3.89450335,36.401537 C2.79070131,37.0657868 8.96643346,36.0963723 14.6379541,33.5293886 C21.0936257,30.607491 26.9153271,25.5935432 32.0504308,18.4194721 C32.9644546,17.1897956 37.855499,10.8707321 42.09122,10.6931797 Z" id="Path" stroke="#FF4C4C" stroke-width="5" fill="#2E53C2" transform="translate(26.776398, 34.761192) rotate(90.000000) translate(-26.776398, -34.761192) "></path>
+                    <polygon id="Path" fill="#FFB500" points="83.3010916 0 83.3010916 33.4584971 49.8425955 33.4584971 49.8425955 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
